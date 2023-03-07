@@ -1,4 +1,4 @@
-- 🌱 I'm currently learning web programming with nestjs and reactjs frameworks and also studying derived technologies, or technologies that use typescript/javascript;
+- 🌱 I'm currently learning web programming with the nestjs frameworks and the reactjs library and also studying derived technologies, or technologies that use typescript/javascript;
 - 👯 I always try to collaborate with the javascript and pythonnordeste community, I really like the events;
 - 📫 How to get to me: the way I use the most is gmail clodoaldo.brtp4@gmail.com;
 - 🧠 I'm learning and chasing my fullstack but I have more focus on the front-end;
